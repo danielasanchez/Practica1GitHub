@@ -6,7 +6,7 @@
 # Hola mundo
 
 ![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
-![KUKI] (https://c.tenor.com/HRC2UPoaXysAAAAC/kawai-cute.gif)
+![KUKI](https://c.tenor.com/HRC2UPoaXysAAAAC/kawai-cute.gif)
 
 - George Washington
 - John Adams
